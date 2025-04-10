@@ -1,0 +1,17 @@
+
+@keyframes fadeInUp {
+    0% {
+      opacity: 0;
+      transform: translateY(20px); /* start 20px below */
+    }
+    100% {
+      opacity: 1;
+      transform: translateY(0); /* end at normal position */
+    }
+  }
+  
+  
+  .animate-fadeInUp {
+    animation: fadeInUp 1s ease-out; /* duration: 1 second, easing: ease-out */
+  }
+  
