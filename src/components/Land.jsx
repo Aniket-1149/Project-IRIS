@@ -1,8 +1,10 @@
 import React from "react";
 import bgImage from '../assets/image.jpg'
+import {Link} from "react-router-dom"
 
 const Section = () => {
   return (
+
 
 <section
   className="relative py-32 w-full h-screen bg-cover bg-center before:absolute before:inset-0 before:bg-black/60 before:z-0"
@@ -48,7 +50,7 @@ const Section = () => {
 
           <div className="mt-12 flex w-full flex-col justify-center gap-2 sm:flex-row">
             {/* Get Started Button */}
-            <button className="inline-flex items-center justify-center whitespace-nowrap rounded-md text-sm font-medium bg-indigo-600 text-white hover:bg-indigo-500 h-10 px-4 py-2 transition-all duration-300 transform hover:scale-105 focus:outline-none focus:ring-2 focus:ring-indigo-500 focus:ring-offset-2">
+            <Link to="/index" ><button className="inline-flex items-center justify-center whitespace-nowrap rounded-md text-sm font-medium bg-indigo-600 text-white hover:bg-indigo-500 h-10 px-4 py-2 transition-all duration-300 transform hover:scale-105 focus:outline-none focus:ring-2 focus:ring-indigo-500 focus:ring-offset-2">
               Get started now
               <svg
                 xmlns="http://www.w3.org/2000/svg"
@@ -64,7 +66,7 @@ const Section = () => {
               >
                 <path d="m9 18 6-6-6-6"></path>
               </svg>
-            </button>
+            </button></Link>
             {/* Learn More Button */}
             <button className="inline-flex items-center justify-center whitespace-nowrap rounded-md text-sm font-medium bg-gray-800 text-zinc-300 hover:bg-zinc-700 hover:text-white h-10 px-4 py-2 transition-all duration-300 transform hover:scale-105 focus:outline-none focus:ring-2 focus:ring-zinc-500 focus:ring-offset-2">
               Learn more
