@@ -223,7 +223,7 @@ export default function IRISChatbot() {
                     <p className={`text-lg font-medium ${isDarkMode ? 'text-gray-200' : 'text-gray-700'}`}>
                       <span className="inline-block transition-all duration-300 group-hover:text-[#008069]">Drag & Drop</span> or <span className="inline-block transition-all duration-300 group-hover:text-[#008069]">Click to Browse</span>
                     </p>
-                    <p className={`text-sm ${isDarkMode ? 'text-gray-400' : 'text-gray-500'}`}>Supports JPG, PNG, GIF (Max 10MB)</p>
+                    <p className={`text-sm ${isDarkMode ? 'text-gray-400' : 'text-gray-500'}`}>Supports JPG, PNG (Max 10MB)</p>
                   </div>
                   
                   {/* Floating Particles */}
