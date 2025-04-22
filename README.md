@@ -27,15 +27,47 @@ From product identification in e-commerce to visual content analysis in educatio
 
 ## 🧠 Team & Approach
 
-### Team Name:  
+## Team Name:  
 `TEAM-D16`
 
-### Team Members:  
-- ANIKET KUMAR SINGH (GitHub / LinkedIn / Role)  
-- Kaushal Kumar  
-- Aditya Mishra 
-- Aditya Sharma
-*(Add links if you want)*
+## Team Members:  
+
+
+### - ANIKET KUMAR SINGH  
+**Contributions:**  
+- Developed and maintained backend services  
+- Designed and implemented key React components for the frontend  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aniketsingh1149/)  
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=flat&logo=github&logoColor=white)](https://github.com/Aniket-1149)  
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://x.com/___Aniket1149)
+
+---
+
+### - Kaushal Kumar  
+**Contributions:**  
+- Integrated backend APIs with frontend components  
+- Contributed to the development of core backend logic using Python  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kaushal-kumar-13b77a302)
+
+---
+
+### - Aditya Mishra  
+**Contributions:**  
+- Built and styled frontend components  
+- Defined and configured frontend routing structure  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditya-kumar-mishra-8a540a276/)
+
+---
+
+### - Aditya Sharma  
+**Contributions:**  
+- Led idea conceptualization and implementation strategy  
+- Designed and developed the user interface  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditya-sharma-693674286)
+
+
+
+
 
 ## Our Approach:  
 ### 🤔 Why We Chose This Problem
@@ -74,6 +106,7 @@ Initially, the project focused purely on image classification. However, through 
 
 ### Sponsor Technologies Used (if any):
 - [✅] **Groq:** _The project uses the Groq API for image recognition. This API provides high-performance processing of image data, allowing the system to quickly analyze uploaded images and extract relevant information. It plays a key role in enabling the chatbot to deliver fast, accurate, and meaningful responses based on the visual content.
+
 ---
 
 ## ✨ Key Features
@@ -110,7 +143,7 @@ Add images, GIFs, or screenshots if helpful!
 
 - [✅] **All members of the team completed the mandatory task - Followed at least 2 of our social channels and filled the form** (Details in Participant Manual)  
 - [✅] **All members of the team completed Bonus Task 1 - Sharing of Badges and filled the form (2 points)**  (Details in Participant Manual)
-- [ ] **All members of the team completed Bonus Task 2 - Signing up for Sprint.dev and filled the form (3 points)**  (Details in Participant Manual)
+- [✅] **All members of the team completed Bonus Task 2 - Signing up for Sprint.dev and filled the form (3 points)**  (Details in Participant Manual)
 
 *(Mark with ✅ if completed)*
 
