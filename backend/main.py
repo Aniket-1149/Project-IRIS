@@ -15,7 +15,7 @@ app.add_middleware(
     allow_headers=["*"],
 )
 
-GROQ_API_KEY = "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"
+GROQ_API_KEY = "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"
 GROQ_API_URL = "https://api.groq.com/openai/v1/chat/completions"
 MODEL = "meta-llama/llama-4-scout-17b-16e-instruct"
 

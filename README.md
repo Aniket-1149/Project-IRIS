@@ -134,8 +134,8 @@ Add images, GIFs, or screenshots if helpful!
 
 ## 📽️ Demo & Deliverables
 
-- **Demo Video Link:** [Paste YouTube or Loom link here]  
-- **Pitch Deck / PPT Link:** [Paste Google Slides / PDF link here]  
+- **Demo Video Link:** [https://youtu.be/MO5t94mw60c?si=FJir_fYUKzdOiPaF]  
+- **Pitch Deck / PPT Link:** [https://docs.google.com/presentation/d/19EFtIV69yeR17zC4weAD8HgaK1AcXxUjIGv90RivMi0/edit?usp=sharing]  
 
 ---
 
@@ -153,7 +153,7 @@ Add images, GIFs, or screenshots if helpful!
 
 ### Requirements:
 - Node.js / Python / npm 
-- API_Keys=`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`
+- API_Keys=`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`
 
 
 ### Local Setup:
