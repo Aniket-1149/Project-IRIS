@@ -48,6 +48,7 @@ From product identification in e-commerce to visual content analysis in educatio
 - Integrated backend APIs with frontend components  
 - Contributed to the development of core backend logic using Python  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kaushal-kumar-13b77a302)
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=flat&logo=github&logoColor=white)](https://github.com/thekaushal01)
 
 ---
 
